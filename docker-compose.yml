@@ -1,0 +1,10 @@
+version: '3'
+services:
+  frontend:
+    build: .
+    image: awahab07/spring-react
+    command: yarn run start
+    volumes:
+      - .:/app
+    ports:
+      - 3333:3000
