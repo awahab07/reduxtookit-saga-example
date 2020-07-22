@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+An example React application to consume a json API endpoint to list user's information.
+
 ## Available Scripts
 
 In the project directory, you can run:
